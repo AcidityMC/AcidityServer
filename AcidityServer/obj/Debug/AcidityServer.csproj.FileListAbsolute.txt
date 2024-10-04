@@ -1,0 +1,4 @@
+C:\Users\Gavin Reid\Desktop\MineSharp\AcidityServer\AcidityServer\obj\Debug\AcidityServer.csprojAssemblyReference.cache
+C:\Users\Gavin Reid\Desktop\MineSharp\AcidityServer\AcidityServer\obj\Debug\AcidityServer.Form1.resources
+C:\Users\Gavin Reid\Desktop\MineSharp\AcidityServer\AcidityServer\obj\Debug\AcidityServer.Properties.Resources.resources
+C:\Users\Gavin Reid\Desktop\MineSharp\AcidityServer\AcidityServer\obj\Debug\AcidityServer.csproj.GenerateResource.cache
